@@ -76,7 +76,7 @@
                     </resources>
                 </configuration>
 
-                <!--当执行mvn package 时，执行： mvn clean package docker:build -->
+                <!--当执行mvn package 时，执行aaa： mvn clean package docker:build -->
                 <executions>
                     <execution>
                         <id>build-image</id>
